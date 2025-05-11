@@ -1,0 +1,20 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "dockerode": "^4.0.6",
+    "express": "^5.1.0"
+  }
+}
